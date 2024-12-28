@@ -4,6 +4,10 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
+- 👨‍💻 All of my projects are available at (https://app.netlify.com/teams/jasminaramim/sites)
+
+- ⚡ Fun fact **😊😊**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminaramim&label=Profile%20views&color=0e75b6&style=flat" alt="jasminaramim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminaramim" alt="jasminaramim" /></a> </p>
