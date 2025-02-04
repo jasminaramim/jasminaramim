@@ -68,10 +68,7 @@
 
 ---
 
-### 🔝 **Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=jasminaramim&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
----
 
 ## 📍 **Location & Contact**  
 📍 **Location:** Bangladesh  
