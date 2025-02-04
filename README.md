@@ -8,8 +8,17 @@
 <img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 👨‍💻 All of my projects are available at (https://app.netlify.com/teams/jasminaramim/sites)
+### 🔹 Skills & Technologies:  
+- 💻 **Frontend:** React, JavaScript, HTML, CSS, Tailwind, Bootstrap  
+- 🚀 **Backend:** Node.js, Firebase  
+- ⚙️ **Tools & Technologies:** Git, Netlify, API Integration  
+- 🎨 **UI/UX:** Responsive Design, Figma  
 
-⚡ Fun fact: My CSS skills are better than my cooking skills! 🍳🎨
+### ⚡ Fun Fact:  
+My CSS skills are better than my cooking skills! 🍳🎨  
+
+📩 **Let's Connect:** jasminaramim2005@gmail.com
+
 
 
 # 💻 Tech Stack:
