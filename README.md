@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img align="center" height="800" src="https://i.ibb.co.com/tMqRS9LR/1.jpg"  />
+<img align="center" height="800" src="https://i.ibb.co.com/Cs885Sft/FRESHERS-WORKSHOP-2025-FACILITATOR.jpg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
