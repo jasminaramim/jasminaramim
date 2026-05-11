@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img align="center" height="full" src="https://i.ibb.co.com/BHr86W8m/mst-jasmin-ara-mim-1.jpg" />
+<img align="center" height="full" src="https://i.ibb.co.com/QvxqRyyQ/652966496-927699116782481-3220855069828703097-n.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
