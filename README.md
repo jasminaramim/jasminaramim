@@ -1,12 +1,13 @@
 <!-- Banner Image -->
 <div align="center">
-<img align="center" height="full" src="https://i.ibb.co.com/QvxqRyyQ/652966496-927699116782481-3220855069828703097-n.png" />
+<img align="center" height="full" src="https://www.image2url.com/r2/default/images/1786582929675-ff144561-ca3b-4b74-9fbf-e465a2b90ffe.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">Web Developer from Bangladesh</h3>
 
 <!-- Profile GIF -->
+
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400" />
 </div>
@@ -15,14 +16,16 @@
 
 ## 👩‍💻 **About Me**
 
-- 🌱 I’m exploring **Next.js** and improving my **backend skills**
-- 💬 Ask me about **React, JavaScript, Firebase, and Frontend Development**
-- 📫 Reach me at: **jasminaramim2005@gmail.com**
-- ⚡ Fun Fact: **My CSS skills are better than my cooking skills! 🍳🎨**  
+* 🌱 I’m exploring **Next.js** and improving my **backend skills**
+* 💬 Ask me about **React, JavaScript, Firebase, WordPress, and Web Development**
+* 🛠️ I also work with **Elementor, WooCommerce, and Gutenberg**
+* 📫 Reach me at: **[jasminaramim2005@gmail.com](mailto:jasminaramim2005@gmail.com)**
+* ⚡ Fun Fact: **My CSS skills are better than my cooking skills! 🍳🎨**
 
 ---
 
-## 🔹 **Skills & Technologies**  
+## 🔹 **Skills & Technologies**
+
 <h3 align="center">💻 Frontend</h3>
 
 <p align="center">
@@ -57,13 +60,36 @@
 
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 
+</p>
+
+<h3 align="center">🌐 WordPress & CMS</h3>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Elementor-%23E6007E.svg?style=for-the-badge&logo=elementor&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gutenberg-%23000000.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+
+</p>
+
+<h3 align="center">🛠️ Deployment & Version Control</h3>
+
+<p align="center">
+
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
+
 
 
 
